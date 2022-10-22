@@ -1,0 +1,4 @@
+[^.]*\.raildrishti\.in.*
+[^.]*\.irctc.co\.in.*
+[^.]*\.indiarailways.co\.in.*
+[^.]*\.railwireinternet\.com.*
